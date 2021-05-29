@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mykol/CLionProjects/Futbolo komanda/Players.h
+string
+-
+
+C:/Users/mykol/CLionProjects/Futbolo komanda/main.cpp
+iostream
+-
+vector
+-
+Players.h
+C:/Users/mykol/CLionProjects/Futbolo komanda/Players.h
+

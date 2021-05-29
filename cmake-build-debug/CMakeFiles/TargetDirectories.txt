@@ -1,0 +1,3 @@
+C:/Users/mykol/CLionProjects/Futbolo komanda/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mykol/CLionProjects/Futbolo komanda/cmake-build-debug/CMakeFiles/Futbolo_komanda.dir
+C:/Users/mykol/CLionProjects/Futbolo komanda/cmake-build-debug/CMakeFiles/rebuild_cache.dir
