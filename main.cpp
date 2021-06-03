@@ -453,7 +453,7 @@ int main() {
                             cout << "Scheduled matches: " << endl;
                             while (!ScheduledMatches.empty()) {
                                 cout << ScheduledMatches.front().getStadium() << " " << ScheduledMatches.front().getPlace() << " " << ScheduledMatches.front().getOpponent() << endl;
-                                ScheduledMatches2.push(ScheduledMatches);
+                                //ScheduledMatches2.push(ScheduledMatches);
                                 ScheduledMatches.pop();
                             }
                         } else {
