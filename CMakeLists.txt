@@ -3,4 +3,4 @@ project(Futbolo_komanda)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Futbolo_komanda main.cpp Players.cpp Players.h)
+add_executable(Futbolo_komanda main.cpp Players.cpp Players.h Match.cpp Match.h)

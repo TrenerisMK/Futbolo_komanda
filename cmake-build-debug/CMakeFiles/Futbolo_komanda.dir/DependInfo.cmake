@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "C:/Users/mykol/CLionProjects/Futbolo komanda/Match.cpp" "C:/Users/mykol/CLionProjects/Futbolo komanda/cmake-build-debug/CMakeFiles/Futbolo_komanda.dir/Match.cpp.obj"
   "C:/Users/mykol/CLionProjects/Futbolo komanda/Players.cpp" "C:/Users/mykol/CLionProjects/Futbolo komanda/cmake-build-debug/CMakeFiles/Futbolo_komanda.dir/Players.cpp.obj"
   "C:/Users/mykol/CLionProjects/Futbolo komanda/main.cpp" "C:/Users/mykol/CLionProjects/Futbolo komanda/cmake-build-debug/CMakeFiles/Futbolo_komanda.dir/main.cpp.obj"
   )

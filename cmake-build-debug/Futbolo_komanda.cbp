@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/mykol/CLionProjects/Futbolo komanda/Match.cpp">
+			<Option target="Futbolo_komanda"/>
+		</Unit>
+		<Unit filename="C:/Users/mykol/CLionProjects/Futbolo komanda/Match.h">
+			<Option target="Futbolo_komanda"/>
+		</Unit>
 		<Unit filename="C:/Users/mykol/CLionProjects/Futbolo komanda/Players.cpp">
 			<Option target="Futbolo_komanda"/>
 		</Unit>

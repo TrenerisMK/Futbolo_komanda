@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Futbolo_komanda.dir/Match.cpp.obj"
   "CMakeFiles/Futbolo_komanda.dir/Players.cpp.obj"
   "CMakeFiles/Futbolo_komanda.dir/main.cpp.obj"
   "Futbolo_komanda.exe"

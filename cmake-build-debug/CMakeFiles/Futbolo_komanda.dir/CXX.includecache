@@ -6,6 +6,10 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/mykol/CLionProjects/Futbolo komanda/Match.h
+string
+-
+
 C:/Users/mykol/CLionProjects/Futbolo komanda/Players.h
 string
 -
@@ -17,4 +21,12 @@ vector
 -
 Players.h
 C:/Users/mykol/CLionProjects/Futbolo komanda/Players.h
+Match.h
+C:/Users/mykol/CLionProjects/Futbolo komanda/Match.h
+algorithm
+-
+stack
+-
+queue
+-
 

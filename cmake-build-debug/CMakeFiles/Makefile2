@@ -92,12 +92,12 @@ clean: CMakeFiles/Futbolo_komanda.dir/clean
 CMakeFiles/Futbolo_komanda.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Futbolo_komanda.dir\build.make CMakeFiles/Futbolo_komanda.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Futbolo_komanda.dir\build.make CMakeFiles/Futbolo_komanda.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\mykol\CLionProjects\Futbolo komanda\cmake-build-debug\CMakeFiles" --progress-num=1,2,3 "Built target Futbolo_komanda"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="C:\Users\mykol\CLionProjects\Futbolo komanda\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target Futbolo_komanda"
 .PHONY : CMakeFiles/Futbolo_komanda.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Futbolo_komanda.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\mykol\CLionProjects\Futbolo komanda\cmake-build-debug\CMakeFiles" 3
+	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\mykol\CLionProjects\Futbolo komanda\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Futbolo_komanda.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "C:\Users\mykol\CLionProjects\Futbolo komanda\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Futbolo_komanda.dir/rule
